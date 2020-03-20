@@ -1,8 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 
-import Home from '../pages/Home'
-
 Vue.use(Router)
 
 export default new Router({
@@ -11,7 +9,7 @@ export default new Router({
     {
       path: '/',
       name: 'Startseite',
-      component: Home,
+      component: () => import('@/pages/Home'),
       meta: {
         hashMap: {
           '#oeffnungszeiten': 'openingHours',
@@ -23,17 +21,17 @@ export default new Router({
     {
       path: '/auftrag',
       name: 'Auftrag',
-      component: () => import('../pages/Task')
+      component: () => import('@/pages/Task')
     },
     {
       path: '/einstellungen',
       name: 'Einstellungen',
-      component: () => import('../pages/Settings')
+      component: () => import('@/pages/Settings')
     },
     {
       path: '/impressum',
       name: 'Impressum',
-      component: () => import('../pages/Conditions')
+      component: () => import('@/pages/Conditions')
     }
   ]
 })
