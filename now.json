@@ -1,5 +1,16 @@
 {
 	"name": "schuhe-bossmann",
 	"version": 2,
-	"alias": ["schuhe-bossmann.de", "*.schuhe-bossmann.de", "schuhe-bossmann"]
+	"alias": ["schuhe-bossmann.de", "*.schuhe-bossmann.de", "schuhe-bossmann"],
+	"headers": [
+		{
+			"source": "/*",
+			"headers": [
+				{
+					"key": "",
+					"value": ""
+				}
+			]
+		}
+	]
   }

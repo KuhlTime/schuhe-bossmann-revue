@@ -7,9 +7,8 @@
       icon-color="red"
       text-color="#333"
       title="Coronavirus"
-    >Wie Sie wahrscheinlich mitbekommen haben, wird momentan empfohlen nicht notwendige Geschäfte zu schließen.
-      <br>
-      <b>Ab dem 01.04. sind wir wieder für Sie da.</b>
+    >Aufgrund der Eindämmung des Virus und zum eigenen Schutz bleibt unser Geschäft
+      <b>bis zum 01.04 geschlossen</b>
     </notification>
     <opening-hours id="openingHours"/>
     <services id="services"/>
