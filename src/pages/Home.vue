@@ -8,7 +8,7 @@
       text-color="#333"
       title="Coronavirus"
     >Aufgrund der Eindämmung des Virus und zum eigenen Schutz bleibt unser Geschäft
-      <b>bis zum 01.04 geschlossen</b>
+      <b>bis zum 21.04 geschlossen</b>
     </notification>
     <opening-hours id="openingHours"/>
     <services id="services"/>
