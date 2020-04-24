@@ -7,8 +7,7 @@
       icon-color="red"
       text-color="#333"
       title="Coronavirus"
-    >Aufgrund der Eindämmung des Virus und zum eigenen Schutz bleibt unser Geschäft
-      <b>bis zum 21.04 geschlossen</b>
+    >Wir haben nun wieder für Sie geöffnet.</b>
     </notification>
     <opening-hours id="openingHours"/>
     <services id="services"/>
