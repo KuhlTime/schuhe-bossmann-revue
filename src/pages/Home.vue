@@ -1,13 +1,13 @@
 <template>
   <div id="home" ref="top">
     <welcome />
-    <notification
+    <!--<notification
       class="info"
       :icon="tree"
       icon-color="#FDB212"
       text-color="#333"
       title="Weihnachten & Neujahr"
-    >
+    >-->
       Vom <b>21.12.2020</b> bis zum <b>05.01.2021</b> haben wir geschlossen.<br />
       Wir wünschen Ihnen frohe und vorallem gesunde Festtage und einen guten
       Rutsch ins neue Jahr.
